@@ -26,7 +26,7 @@
 <ol>
   <li>
     <strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/flexie/secure-real-time-chat-application,git </code></pre>
+    <pre><code>git clone https://github.com/flexie0o0/secure-real-time-chat-application.git </code></pre>
   </li>
   
   <li>
