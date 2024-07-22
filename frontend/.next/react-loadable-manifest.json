@@ -1,0 +1,32 @@
+{
+  "..\\components\\Call\\Container.jsx -> zego-express-engine-webrtc": {
+    "id": "..\\components\\Call\\Container.jsx -> zego-express-engine-webrtc",
+    "files": [
+      "static/chunks/node_modules_zego-express-engine-webrtc_ZegoExpressWebRTC_js.js"
+    ]
+  },
+  "..\\components\\Call\\VideoCall.jsx -> ./Container": {
+    "id": "..\\components\\Call\\VideoCall.jsx -> ./Container",
+    "files": [
+      "static/chunks/src_components_Call_Container_jsx.js"
+    ]
+  },
+  "..\\components\\Call\\VoiceCall.jsx -> ./Container": {
+    "id": "..\\components\\Call\\VoiceCall.jsx -> ./Container",
+    "files": [
+      "static/chunks/src_components_Call_Container_jsx.js"
+    ]
+  },
+  "..\\components\\Chat\\ChatContainer.jsx -> ./VoiceMessage": {
+    "id": "..\\components\\Chat\\ChatContainer.jsx -> ./VoiceMessage",
+    "files": [
+      "static/chunks/src_components_Chat_VoiceMessage_jsx.js"
+    ]
+  },
+  "..\\components\\Chat\\MessageBar.jsx -> ../common/CaptureAudio": {
+    "id": "..\\components\\Chat\\MessageBar.jsx -> ../common/CaptureAudio",
+    "files": [
+      "static/chunks/src_components_common_CaptureAudio_jsx.js"
+    ]
+  }
+}
